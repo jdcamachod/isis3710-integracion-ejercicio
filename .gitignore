@@ -1,0 +1,7 @@
+
+node_modules/
+front/node_modules
+front/build
+.DS_Store
+front/.DS_Store
+.env
